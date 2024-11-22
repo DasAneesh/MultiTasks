@@ -1,0 +1,14 @@
+C:\Users\Academy\source\repos\parallel programming\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\Academy\source\repos\parallel programming\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\Academy\source\repos\parallel programming\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\Academy\source\repos\parallel programming\ConsoleApp2\bin\Debug\LiveCharts.dll
+C:\Users\Academy\source\repos\parallel programming\ConsoleApp2\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Academy\source\repos\parallel programming\ConsoleApp2\bin\Debug\LiveCharts.pdb
+C:\Users\Academy\source\repos\parallel programming\ConsoleApp2\bin\Debug\LiveCharts.xml
+C:\Users\Academy\source\repos\parallel programming\ConsoleApp2\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Academy\source\repos\parallel programming\ConsoleApp2\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Academy\source\repos\parallel programming\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+C:\Users\Academy\source\repos\parallel programming\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\Academy\source\repos\parallel programming\ConsoleApp2\obj\Debug\ConsoleA.D5FB4C91.Up2Date
+C:\Users\Academy\source\repos\parallel programming\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\Academy\source\repos\parallel programming\ConsoleApp2\obj\Debug\ConsoleApp2.pdb

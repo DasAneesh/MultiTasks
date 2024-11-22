@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Academy\\source\\repos\\Parallel programming\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8823F4-A44B-47EA-8EAD-544BBB64C847}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\academy\\desktop\\multitasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94667E9E-0A09-4B88-87D0-2167E1358A41}|parallel programming\\parallel programming.csproj|c:\\users\\academy\\source\\repos\\parallel programming\\parallel programming\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94667E9E-0A09-4B88-87D0-2167E1358A41}|parallel programming\\parallel programming.csproj|solutionrelative:parallel programming\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94667E9E-0A09-4B88-87D0-2167E1358A41}|parallel programming\\parallel programming.csproj|c:\\users\\academy\\source\\repos\\parallel programming\\parallel programming\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{94667E9E-0A09-4B88-87D0-2167E1358A41}|parallel programming\\parallel programming.csproj|solutionrelative:parallel programming\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94667E9E-0A09-4B88-87D0-2167E1358A41}|parallel programming\\parallel programming.csproj|c:\\users\\academy\\source\\repos\\parallel programming\\parallel programming\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{94667E9E-0A09-4B88-87D0-2167E1358A41}|parallel programming\\parallel programming.csproj|solutionrelative:parallel programming\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94667E9E-0A09-4B88-87D0-2167E1358A41}|parallel programming\\parallel programming.csproj|c:\\users\\academy\\source\\repos\\parallel programming\\parallel programming\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94667E9E-0A09-4B88-87D0-2167E1358A41}|parallel programming\\parallel programming.csproj|solutionrelative:parallel programming\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Academy\\source\\repos\\Parallel programming\\Parallel programming\\App.xaml",
+              "RelativeDocumentMoniker": "Parallel programming\\App.xaml",
+              "ToolTip": "C:\\Users\\Academy\\source\\repos\\Parallel programming\\Parallel programming\\App.xaml",
+              "RelativeToolTip": "Parallel programming\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-22T17:08:24.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Academy\\source\\repos\\Parallel programming\\Parallel programming\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Parallel programming\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Academy\\source\\repos\\Parallel programming\\Parallel programming\\MainWindow.xaml",
+              "RelativeToolTip": "Parallel programming\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-22T16:52:12.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Multitasks.cs",
+              "DocumentMoniker": "C:\\Users\\Academy\\Desktop\\Multitasks.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\Multitasks.cs",
+              "ToolTip": "C:\\Users\\Academy\\Desktop\\Multitasks.cs",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\Multitasks.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAiwDoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T16:51:58.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Academy\\source\\repos\\Parallel programming\\Parallel programming\\Program.cs",
+              "RelativeDocumentMoniker": "Parallel programming\\Program.cs",
+              "ToolTip": "C:\\Users\\Academy\\source\\repos\\Parallel programming\\Parallel programming\\Program.cs",
+              "RelativeToolTip": "Parallel programming\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T16:51:50.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Academy\\source\\repos\\Parallel programming\\Parallel programming\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Parallel programming\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Academy\\source\\repos\\Parallel programming\\Parallel programming\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Parallel programming\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAUwBgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T15:48:45.034Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

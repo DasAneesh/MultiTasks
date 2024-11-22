@@ -1,0 +1,24 @@
+C:\Users\Academy\source\repos\parallel programming\parallel programming\bin\Debug\net8.0-windows\parallel programming.exe
+C:\Users\Academy\source\repos\parallel programming\parallel programming\bin\Debug\net8.0-windows\parallel programming.deps.json
+C:\Users\Academy\source\repos\parallel programming\parallel programming\bin\Debug\net8.0-windows\parallel programming.runtimeconfig.json
+C:\Users\Academy\source\repos\parallel programming\parallel programming\bin\Debug\net8.0-windows\parallel programming.dll
+C:\Users\Academy\source\repos\parallel programming\parallel programming\bin\Debug\net8.0-windows\parallel programming.pdb
+C:\Users\Academy\source\repos\parallel programming\parallel programming\bin\Debug\net8.0-windows\LiveCharts.dll
+C:\Users\Academy\source\repos\parallel programming\parallel programming\bin\Debug\net8.0-windows\LiveCharts.Wpf.dll
+C:\Users\Academy\source\repos\parallel programming\parallel programming\obj\Debug\net8.0-windows\parallel programming.csproj.AssemblyReference.cache
+C:\Users\Academy\source\repos\parallel programming\parallel programming\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Academy\source\repos\parallel programming\parallel programming\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Academy\source\repos\parallel programming\parallel programming\obj\Debug\net8.0-windows\parallel programming_MarkupCompile.cache
+C:\Users\Academy\source\repos\parallel programming\parallel programming\obj\Debug\net8.0-windows\parallel programming_MarkupCompile.lref
+C:\Users\Academy\source\repos\parallel programming\parallel programming\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Academy\source\repos\parallel programming\parallel programming\obj\Debug\net8.0-windows\parallel programming.g.resources
+C:\Users\Academy\source\repos\parallel programming\parallel programming\obj\Debug\net8.0-windows\parallel programming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Academy\source\repos\parallel programming\parallel programming\obj\Debug\net8.0-windows\parallel programming.AssemblyInfoInputs.cache
+C:\Users\Academy\source\repos\parallel programming\parallel programming\obj\Debug\net8.0-windows\parallel programming.AssemblyInfo.cs
+C:\Users\Academy\source\repos\parallel programming\parallel programming\obj\Debug\net8.0-windows\parallel programming.csproj.CoreCompileInputs.cache
+C:\Users\Academy\source\repos\parallel programming\parallel programming\obj\Debug\net8.0-windows\parallel.9E111121.Up2Date
+C:\Users\Academy\source\repos\parallel programming\parallel programming\obj\Debug\net8.0-windows\parallel programming.dll
+C:\Users\Academy\source\repos\parallel programming\parallel programming\obj\Debug\net8.0-windows\refint\parallel programming.dll
+C:\Users\Academy\source\repos\parallel programming\parallel programming\obj\Debug\net8.0-windows\parallel programming.pdb
+C:\Users\Academy\source\repos\parallel programming\parallel programming\obj\Debug\net8.0-windows\parallel programming.genruntimeconfig.cache
+C:\Users\Academy\source\repos\parallel programming\parallel programming\obj\Debug\net8.0-windows\ref\parallel programming.dll
